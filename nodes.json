@@ -263,13 +263,15 @@
           "name": "Växjö #1",
           "url": "n1.vxo.nu",
           "port": 443,
-          "ssl": true
+          "ssl": true,
+          "tor": true
       },
       {
           "name": "Växjö #2",
           "url": "n2.vxo.nu",
           "port": 443,
-          "ssl": true
+          "ssl": true,
+          "tor": true
       },
     ]
 }
