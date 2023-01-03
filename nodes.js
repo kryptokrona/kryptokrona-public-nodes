@@ -1,0 +1,275 @@
+{
+    "nodes": [
+        {
+            "name": "Göta Pool",
+            "url": "gota.kryptokrona.se",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "1.1.1",
+            "fee": "0.00",
+            "proxy_url": "gota"
+        },
+        {
+            "name": "Blocksum",
+            "url": "blocksum.org",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "1.1.1",
+            "fee": "0.00",
+            "proxy_url": "blocksum"
+        },
+        {
+            "name": "Swepool",
+            "url": "swepool.org",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "1.1.1",
+            "fee": "0.00",
+            "proxy_url": "swepool"
+        },
+        {
+            "name": "Gamersnest",
+            "url": "pool.gamersnest.org",
+            "port": 11898,
+            "ssl": true,
+            "cache": false,
+            "version": "0.0.1",
+            "fee": "0.00",
+            "proxy_url": "gamersnest"
+        },
+        {
+            "name": "Norpool",
+            "url": "norpool.org",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "0.0.1",
+            "fee": "0.00",
+            "proxy_url": "norpool"
+        },
+        {
+            "name": "Privacy Mine",
+            "url": "privacymine.net",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "1.1.0",
+            "fee": "0.00",
+            "proxy_url": "privacymine"
+        },
+        {
+            "name": "Privacy Mine SSL",
+            "url": "privacymine.net",
+            "port": 21898,
+            "ssl": true,
+            "cache": false,
+            "version": "1.1.0",
+            "fee": "0.00",
+            "proxy_url": "privacymine"
+        },
+        {
+            "name": "KuKoHumoR",
+            "url": "kukohumor.se",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "0.0.1",
+            "fee": "0.00",
+            "proxy_url": "KuKoHumoR"
+        },
+        {
+            "name": "Spider Pig",
+            "url": "spider-pig.hopto.org",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "0.1.0",
+            "fee": "0.00",
+            "proxy_url": "spider-pig"
+        },
+        {
+            "name": "TechyNode",
+            "url": "techy.ddns.net",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "1.1.1",
+            "fee": "0.1",
+            "proxy_url": "TechyNode"
+        },
+        {
+            "name": "Wasa",
+            "url": "wasa.kryptokrona.se",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "1.1.1",
+            "fee": "0.0",
+            "proxy_url": "wasa"
+        },
+        {
+            "name": "Tifo",
+            "url": "Tifo.info",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "1.1.1",
+            "fee": "0.00",
+            "proxy_url": "tifo"
+        },
+        {
+            "name": "China 1",
+            "url": "182.43.36.18",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "1.1.1",
+            "fee": "0.0",
+            "proxy_url": "china1"
+        },
+        {
+            "name": "China 2",
+            "url": "106.12.131.174",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "0.0.1",
+            "fee": "0.0",
+            "proxy_url": "china2"
+        },
+        {
+            "name": "China 3",
+            "url": "115.239.210.201",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "0.0.1",
+            "fee": "0.0",
+            "proxy_url": "china3"
+        },
+        {
+            "name": "China 4",
+            "url": "203.55.4.55",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "0.0.1",
+            "fee": "0.0",
+            "proxy_url": "china4"
+        },
+        {
+            "name": "China 5",
+            "url": "182.43.45.239",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "0.0.1",
+            "fee": "0.0",
+            "proxy_url": "china5"
+        },
+        {
+            "name": "China 6",
+            "url": "182.43.80.115",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "1.1.1",
+            "fee": "0.0",
+            "proxy_url": "china6"
+        },
+        {
+            "name": "China 7",
+            "url": "115.239.210.250",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "1.1.1",
+            "fee": "0.0",
+            "proxy_url": "china7"
+        },
+        {
+            "name": "China 8",
+            "url": "115.239.211.235",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "0.0.1",
+            "fee": "0.0",
+            "proxy_url": "china8"
+        },
+        {
+            "name": "China 9",
+            "url": "113.125.27.1",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "0.0.1",
+            "fee": "0.0",
+            "proxy_url": "china9"
+        },
+        {
+            "name": "China 10",
+            "url": "140.246.129.141",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "0.0.1",
+            "fee": "0.0",
+            "proxy_url": "china10"
+        },
+        {
+            "name": "China 11",
+            "url": "203.33.224.160",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "0.0.1",
+            "fee": "0.0",
+            "proxy_url": "china11"
+        },
+        {
+            "name": "China 12",
+            "url": "36.111.177.4",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "0.0.1",
+            "fee": "0.0",
+            "proxy_url": "china12"
+        }
+    ],
+    "apis": [
+      {
+            "url": "https://api.hugin.chat",
+            "name": "Official Hugin Cache API",
+            "description": "The Official Hugin Cache API Powered by Novastack Hosting",
+        },
+        {
+            "url": "https://hugin-api.novastack.org",
+            "name": "Novastack Hugin Cache API",
+            "description": "High Performance Hugin Cache API Powered by Novastack Hosting",
+        },
+        {
+            "url": "https://test-api.novastack.org",
+            "name": "Novastack Testing Hugin Cache API",
+            "description": "Used to test new/latest features before running on main Novastack Cache",
+        }
+      ],
+    "hugin": [
+      {
+          "name": "Växjö #1",
+          "url": "n1.vxo.nu",
+          "port": 443,
+          "ssl": true
+      },
+      {
+          "name": "Växjö #2",
+          "url": "n2.vxo.nu",
+          "port": 443,
+          "ssl": true
+      },
+    ]
+}
