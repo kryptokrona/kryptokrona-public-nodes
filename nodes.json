@@ -59,7 +59,7 @@
             "version": "1.1.1",
             "fee": "0.00",
             "proxy_url": "tifo"
-        },
+        }
     ],
     "apis": [
         {
