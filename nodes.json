@@ -49,6 +49,16 @@
             "version": "1.1.1",
             "fee": "0.0",
             "proxy_url": "wasa"
+        },
+        {
+            "name": "Tohelo's Node",
+            "url": "xkr-tohelo101.duckdns.org",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "1.1.1",
+            "fee": "0.0",
+            "proxy_url": "tohelo"
         }
     ],
     "apis": [
