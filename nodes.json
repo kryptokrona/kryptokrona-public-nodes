@@ -59,6 +59,26 @@
             "version": "1.1.1",
             "fee": "0.0",
             "proxy_url": "tohelo"
+        },
+        {
+            "name": "XKR.network",
+            "url": "xkr.network",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "1.1.1",
+            "fee": "0.0",
+            "proxy_url": "xkrnetwork"
+        },
+        {
+            "name": "XKR.network",
+            "url": "xkr.network",
+            "port": 21898,
+            "ssl": true,
+            "cache": false,
+            "version": "1.1.1",
+            "fee": "0.0",
+            "proxy_url": "xkrnetwork"
         }
     ],
     "apis": [
