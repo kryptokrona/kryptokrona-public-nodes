@@ -62,8 +62,8 @@
         },
         {
             "name": "XKR.network",
-            "url": "xkr.network",
-            "port": 11898,
+            "url": "node.xkr.network",
+            "port": 80,
             "ssl": false,
             "cache": false,
             "version": "1.1.1",
@@ -71,9 +71,9 @@
             "proxy_url": "xkrnetwork"
         },
         {
-            "name": "XKR.network",
-            "url": "xkr.network",
-            "port": 21898,
+            "name": "XKR.network SSL",
+            "url": "node.xkr.network",
+            "port": 443,
             "ssl": true,
             "cache": false,
             "version": "1.1.1",
