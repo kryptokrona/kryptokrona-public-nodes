@@ -89,6 +89,16 @@
             "version": "1.1.1",
             "fee": "0.0",
             "proxy_url": "kryptokronano"
+        },
+	{
+            "name": "KTH Node",
+            "url": "vm.cloud.cbh.kth.se",
+            "port": 2783,
+            "ssl": false,
+            "cache": false,
+            "version": "1.1.3",
+            "fee": "0.0",
+            "proxy_url": "kth"
         }
     ],
     "apis": [
