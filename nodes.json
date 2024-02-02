@@ -11,6 +11,16 @@
             "proxy_url": "blocksum"
         },
         {
+            "name": "XKR.la SSL",
+            "url": "node.xkr.la",
+            "port": 443,
+            "ssl": true,
+            "cache": false,
+            "version": "1.1.3",
+            "fee": "0.00",
+            "proxy_url": "XKRla"
+        },
+        {
             "name": "Privacy Mine",
             "url": "privacymine.net",
             "port": 11898,
