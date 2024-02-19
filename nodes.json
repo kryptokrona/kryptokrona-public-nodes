@@ -136,6 +136,11 @@
             "url": "https://techy.ddns.net",
             "name": "TechyPool API",
             "description": "The official TechyPool Hugin API"
+        },
+	    {
+            "url": "http://130.237.83.249",
+            "name": "KTH Hugin API",
+            "description": "Hugin API hosted at KTH"
         }
       ],
     "hugin": [
