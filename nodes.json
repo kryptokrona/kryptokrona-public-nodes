@@ -122,8 +122,8 @@
         },
 	{
             "name": "KTH Node",
-            "url": "vm.cloud.cbh.kth.se",
-            "port": 2783,
+            "url": "130.237.83.246",
+            "port": 20046,
             "ssl": false,
             "cache": false,
             "version": "1.1.3",
