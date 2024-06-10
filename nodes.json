@@ -143,7 +143,7 @@
     ],
     "apis": [
         {
-            "url": "http://95.216.136.222",
+            "url": "https://techypool.ddns.net",
             "name": "TechyPool API",
             "description": "The official TechyPool Hugin API"
         },
