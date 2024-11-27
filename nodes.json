@@ -52,7 +52,7 @@
         },
         {
             "name": "TechyNode",
-            "url": "techy.ddns.net",
+            "url": "techypool.ddns.net",
             "port": 11898,
             "ssl": false,
             "cache": false,
