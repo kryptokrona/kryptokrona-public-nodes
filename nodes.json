@@ -1,5 +1,25 @@
 {
     "nodes": [
+	{
+            "name": "TechyNode SSL",
+            "url": "techypool.ddns.net/node",
+            "port": 443,
+            "ssl": true,
+            "cache": false,
+            "version": "1.1.3",
+            "fee": "0.1",
+            "proxy_url": "TechyNode"
+        },
+	{	
+            "name": "KTH Node SSL",
+            "url": "kth.kryptokrona.se",
+            "port": 20176,
+            "ssl": true,
+            "cache": false,
+            "version": "1.1.3",
+            "fee": "0.0",
+            "proxy_url": "kthssl"
+        },
         {
             "name": "Blocksum",
             "url": "blocksum.org",
@@ -55,16 +75,6 @@
             "url": "techypool.ddns.net",
             "port": 11898,
             "ssl": false,
-            "cache": false,
-            "version": "1.1.3",
-            "fee": "0.1",
-            "proxy_url": "TechyNode"
-        },
-    	{
-            "name": "TechyNode SSL",
-            "url": "techypool.ddns.net/node",
-            "port": 443,
-            "ssl": true,
             "cache": false,
             "version": "1.1.3",
             "fee": "0.1",
@@ -140,17 +150,7 @@
             "fee": "0.0",
             "proxy_url": "kth"
         },
-	{	
-            "name": "KTH Node SSL",
-            "url": "kth.kryptokrona.se",
-            "port": 20176,
-            "ssl": true,
-            "cache": false,
-            "version": "1.1.3",
-            "fee": "0.0",
-            "proxy_url": "kthssl"
-        },
-	    {
+    {
             "name": "Spider Pig",
             "url": "spider-pig.hopto.org",
             "port": 11898,
