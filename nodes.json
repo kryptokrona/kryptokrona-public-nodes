@@ -1,15 +1,5 @@
 {
     "nodes": [
-	{
-            "name": "TechyNode SSL",
-            "url": "techypool.ddns.net/node",
-            "port": 443,
-            "ssl": true,
-            "cache": false,
-            "version": "1.1.3",
-            "fee": "0.1",
-            "proxy_url": "TechyNode"
-        },
 	{	
             "name": "KTH Node SSL",
             "url": "kth.kryptokrona.se",
@@ -19,6 +9,16 @@
             "version": "1.1.3",
             "fee": "0.0",
             "proxy_url": "kthssl"
+        },
+	{
+            "name": "TechyNode SSL",
+            "url": "techypool.ddns.net/node",
+            "port": 443,
+            "ssl": true,
+            "cache": false,
+            "version": "1.1.3",
+            "fee": "0.1",
+            "proxy_url": "TechyNode"
         },
         {
             "name": "Blocksum",
