@@ -199,6 +199,16 @@
             "version": "1.1.3",
             "fee": "0.0",
             "proxy_url": "spider-pig"
+        },  
+    	{
+            "name": "Northern Lights",
+            "url": "209.38.232.36",
+            "port": 11898,
+            "ssl": false,
+            "cache": false,
+            "version": "1.1.3",
+            "fee": "0.0",
+            "proxy_url": "northern-lights"
         }
     ],
     "apis": [
